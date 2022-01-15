@@ -2,7 +2,7 @@
 - 👀 I’m interested in Operations reasearch, Apps
 - 🌱 I’m currently learning Life
 - 💞️ I’m looking to collaborate on nothing yet.
-- 📫 How to reach me hasting@outlook.com
+- 📫 How to reach me ...
 
 <!---
 Hasting-Energy/Hasting-Energy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
